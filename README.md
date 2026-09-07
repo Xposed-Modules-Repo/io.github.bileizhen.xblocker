@@ -1,4 +1,14 @@
-# XBlocker
+<div align="center">
+  <img src="https://github.com/bileizhen/XBlocker/blob/main/docs/icon-512.png" width="96" alt="XBlocker">
+  <h1>XBlocker</h1>
+  <p>让 X 时间线少一点噪音。</p>
+
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  [![Android 9+](https://img.shields.io/badge/Android-9%2B-blue.svg)](https://www.python.org/)
+  [![LSPosed](https://img.shields.io/badge/LSPosed-legacy-orange.svg)](https://lsposed.org)
+  [![GitHub](https://img.shields.io/badge/作者-bileizhen-blue)](https://github.com/bileizhen)
+
+</div>
 
 XBlocker 是一个 Android 原生 X 客户端（`com.twitter.android`）的 LSPosed 过滤模块。它在设备本地匹配规则，隐藏垃圾回复、推广内容和指定分类，并提供自定义关键词、正则、白名单、云端词库与诊断记录。
 
