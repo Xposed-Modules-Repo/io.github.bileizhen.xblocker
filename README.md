@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://github.com/bileizhen/XBlocker/blob/main/docs/icon-512.png" width="96" alt="XBlocker">
+  <img src="https://github.com/bileizhen/XBlocker/blob/main/.github/img/icon-512.png" width="96" alt="XBlocker">
   <h1>XBlocker</h1>
   <p>让 X 时间线少一点噪音。</p>
+
+  <p><strong>简体中文</strong> | <a href="README.en.md">English</a></p>
 
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   [![Android 9+](https://img.shields.io/badge/Android-9%2B-blue.svg)](https://www.python.org/)
