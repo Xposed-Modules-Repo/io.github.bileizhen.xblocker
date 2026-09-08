@@ -33,3 +33,11 @@ XBlocker 是一个 Android 原生 X 客户端（`com.twitter.android`）的 LSPo
 - 问题反馈：https://github.com/bileizhen/XBlocker/issues
 
 本模块与 X、LSPosed 及词库维护者没有隶属关系。
+
+## 浏览量
+
+<div align="center">
+  
+![:shell](https://count.getloli.com/@bileizhen_XBlocker?name=bileizhen_XBlocker&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+
+</div>
