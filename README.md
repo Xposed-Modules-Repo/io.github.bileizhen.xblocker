@@ -5,10 +5,15 @@
 
   <p><strong>简体中文</strong> | <a href="README.en.md">English</a></p>
 
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  [![Android 9+](https://img.shields.io/badge/Android-9%2B-blue.svg)](https://www.python.org/)
-  [![LSPosed](https://img.shields.io/badge/LSPosed-API_101-orange.svg)](https://lsposed.org)
-  [![GitHub](https://img.shields.io/badge/作者-bileizhen-blue)](https://github.com/bileizhen)
+<p>
+  <a href="https://github.com/Xposed-Modules-Repo/io.github.bileizhen.xblocker/stargazers"><img src="https://img.shields.io/github/stars/Xposed-Modules-Repo/io.github.bileizhen.xblocker" alt="GitHub Stars"></a>
+  <a href="https://github.com/Xposed-Modules-Repo/io.github.bileizhen.xblocker/issues"><img src="https://img.shields.io/github/issues/Xposed-Modules-Repo/io.github.bileizhen.xblocker" alt="GitHub Issues"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
+  <a href="https://developer.android.com/about/versions/pie"><img src="https://img.shields.io/badge/Android-9%2B-blue.svg" alt="Android 9+"></a>
+  <a href="https://lsposed.org"><img src="https://img.shields.io/badge/LSPosed-API_101-orange.svg" alt="LSPosed API 101"></a>
+  <a href="https://github.com/Xposed-Modules-Repo/io.github.bileizhen.xblocker/releases"><img src="https://img.shields.io/github/v/tag/Xposed-Modules-Repo/io.github.bileizhen.xblocker?label=release" alt="Latest Release"></a>
+  <a href="https://github.com/Xposed-Modules-Repo/io.github.bileizhen.xblocker/releases"><img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.github.bileizhen.xblocker/total" alt="Downloads"></a>
+</p>
 
 </div>
 
